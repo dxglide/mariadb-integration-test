@@ -3,10 +3,10 @@ package org.dxglide.tests.springboot.dbintegrations.testing;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class DbIntegrationTestApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
